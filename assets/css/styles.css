@@ -1,2 +1,36 @@
 /* styles.css */
 
+ul {
+    font-family: "Ubuntu", sans-serif;
+    align-content: center;
+    color: darkmagenta;
+    font-size: 1.7em
+}
+
+img {
+    width: 1px;
+    align-content: center;
+}
+
+font {
+font-family: Arial, Arial, Helvetica, sans-serif, serif;
+}
+
+h1 {
+    font-family: "Noto Serif", serif;
+    font-size: 6em;
+}
+
+h2 {
+    font-family: "Noto Serif", serif;
+}
+
+p {
+    font-family: "Ubuntu", sans-serif;
+    color: darkmagenta;
+    font-size: 2em;
+}
+
+body {
+    background-color: cornsilk;
+}
